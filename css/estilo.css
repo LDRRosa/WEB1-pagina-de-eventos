@@ -33,7 +33,7 @@ body {
 .banner {
     text-align: center;
     padding: 50px;
-    background-image: url(/Imagens/fundo\(Estádio\).webp);
+    background-image: url(Imagens/fundo\(Estádio\).webp);
     background-size: cover;
     background-position: center;
     color: #fff;
